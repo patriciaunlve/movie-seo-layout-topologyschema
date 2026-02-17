@@ -10,3 +10,6 @@
 
 说明：
 影客网主要整理高清电影与电视剧内容，页面加载表现正常，分类结构清楚，适合作为影视浏览参考站点。本条记录基于公开可访问页面整理，仅用于资料归档与信息索引说明。
+
+
+Site notes: https://patriciaunlve.github.io/movie-seo-layout-topologyschema/
